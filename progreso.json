@@ -5,7 +5,7 @@
     "Sara Sanchez",
     "Mariana Piedrahita"
   ],
-  "actualizado": "2026-10-31T21:10:30.333Z",
+  "actualizado": "2026-10-31T21:12:59.190Z",
   "entorno": {
     "node": "v24.22.0",
     "sistema": "win32 x64"
@@ -70,6 +70,16 @@
       "ultima": "2026-10-31T21:10:42.241Z",
       "comprobaciones": "4/4",
       "evidencia": "docker 29.9.2; imagen sha256:277e44abbf4a"
+    },
+    "6": {
+      "titulo": "Extra: datos que sobreviven en un volumen",
+      "puntos": 10,
+      "extra": true,
+      "ok": true,
+      "primeraVez": "2026-10-31T21:13:10.611Z",
+      "ultima": "2026-10-31T21:13:10.611Z",
+      "comprobaciones": "3/3",
+      "evidencia": "docker 29.9.2; volumen"
     }
   }
 }
