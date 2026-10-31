@@ -5,7 +5,7 @@
     "Sara Sanchez",
     "Mariana Piedrahita"
   ],
-  "actualizado": "2026-10-31T20:53:32.355Z",
+  "actualizado": "2026-10-31T21:02:06.744Z",
   "entorno": {
     "node": "v24.22.0",
     "sistema": "win32 x64"
@@ -39,6 +39,16 @@
       "primeraVez": "2026-10-31T20:53:32.434Z",
       "ultima": "2026-10-31T20:53:32.434Z",
       "comprobaciones": "15/15",
+      "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T21:02:06.943Z",
+      "ultima": "2026-10-31T21:02:06.943Z",
+      "comprobaciones": "12/12",
       "evidencia": ""
     }
   }
