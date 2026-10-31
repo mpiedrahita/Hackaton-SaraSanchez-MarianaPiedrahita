@@ -5,7 +5,7 @@
     "Sara Sanchez",
     "Mariana Piedrahita"
   ],
-  "actualizado": "2026-10-31T20:47:07.672Z",
+  "actualizado": "2026-10-31T20:53:32.355Z",
   "entorno": {
     "node": "v24.22.0",
     "sistema": "win32 x64"
@@ -29,6 +29,16 @@
       "primeraVez": "2026-10-31T20:47:07.700Z",
       "ultima": "2026-10-31T20:47:07.700Z",
       "comprobaciones": "9/9",
+      "evidencia": ""
+    },
+    "2": {
+      "titulo": "Adaptadores de salida",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T20:53:32.434Z",
+      "ultima": "2026-10-31T20:53:32.434Z",
+      "comprobaciones": "15/15",
       "evidencia": ""
     }
   }
