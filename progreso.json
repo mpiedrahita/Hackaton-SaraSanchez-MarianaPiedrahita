@@ -5,7 +5,7 @@
     "Sara Sanchez",
     "Mariana Piedrahita"
   ],
-  "actualizado": "2026-10-31T21:02:06.744Z",
+  "actualizado": "2026-10-31T21:04:19.273Z",
   "entorno": {
     "node": "v24.22.0",
     "sistema": "win32 x64"
@@ -17,7 +17,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-10-31T20:40:41.573Z",
-      "ultima": "2026-10-31T20:40:41.573Z",
+      "ultima": "2026-10-31T21:04:31.846Z",
       "comprobaciones": "2/2",
       "evidencia": "docker 29.9.2"
     },
@@ -27,7 +27,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-10-31T20:47:07.700Z",
-      "ultima": "2026-10-31T20:47:07.700Z",
+      "ultima": "2026-10-31T21:04:31.886Z",
       "comprobaciones": "9/9",
       "evidencia": ""
     },
@@ -37,7 +37,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-10-31T20:53:32.434Z",
-      "ultima": "2026-10-31T20:53:32.434Z",
+      "ultima": "2026-10-31T21:04:32.002Z",
       "comprobaciones": "15/15",
       "evidencia": ""
     },
@@ -47,9 +47,29 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-10-31T21:02:06.943Z",
-      "ultima": "2026-10-31T21:02:06.943Z",
+      "ultima": "2026-10-31T21:04:32.259Z",
       "comprobaciones": "12/12",
       "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T21:04:32.329Z",
+      "ultima": "2026-10-31T21:04:32.329Z",
+      "comprobaciones": "6/6",
+      "evidencia": ""
+    },
+    "5": {
+      "titulo": "Imagen: la API en un contenedor",
+      "puntos": 25,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T21:04:34.592Z",
+      "comprobaciones": "0/2",
+      "evidencia": "docker 29.9.2"
     }
   }
 }
